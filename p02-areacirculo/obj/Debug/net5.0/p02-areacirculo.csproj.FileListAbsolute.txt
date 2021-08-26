@@ -1,0 +1,16 @@
+D:\Universidad\Semestre9\DAI\desappint21\p02-areacirculo\bin\Debug\net5.0\p02-areacirculo.exe
+D:\Universidad\Semestre9\DAI\desappint21\p02-areacirculo\bin\Debug\net5.0\p02-areacirculo.deps.json
+D:\Universidad\Semestre9\DAI\desappint21\p02-areacirculo\bin\Debug\net5.0\p02-areacirculo.runtimeconfig.json
+D:\Universidad\Semestre9\DAI\desappint21\p02-areacirculo\bin\Debug\net5.0\p02-areacirculo.runtimeconfig.dev.json
+D:\Universidad\Semestre9\DAI\desappint21\p02-areacirculo\bin\Debug\net5.0\p02-areacirculo.dll
+D:\Universidad\Semestre9\DAI\desappint21\p02-areacirculo\bin\Debug\net5.0\ref\p02-areacirculo.dll
+D:\Universidad\Semestre9\DAI\desappint21\p02-areacirculo\bin\Debug\net5.0\p02-areacirculo.pdb
+D:\Universidad\Semestre9\DAI\desappint21\p02-areacirculo\obj\Debug\net5.0\p02-areacirculo.csproj.AssemblyReference.cache
+D:\Universidad\Semestre9\DAI\desappint21\p02-areacirculo\obj\Debug\net5.0\p02-areacirculo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\Semestre9\DAI\desappint21\p02-areacirculo\obj\Debug\net5.0\p02-areacirculo.AssemblyInfoInputs.cache
+D:\Universidad\Semestre9\DAI\desappint21\p02-areacirculo\obj\Debug\net5.0\p02-areacirculo.AssemblyInfo.cs
+D:\Universidad\Semestre9\DAI\desappint21\p02-areacirculo\obj\Debug\net5.0\p02-areacirculo.csproj.CoreCompileInputs.cache
+D:\Universidad\Semestre9\DAI\desappint21\p02-areacirculo\obj\Debug\net5.0\p02-areacirculo.dll
+D:\Universidad\Semestre9\DAI\desappint21\p02-areacirculo\obj\Debug\net5.0\ref\p02-areacirculo.dll
+D:\Universidad\Semestre9\DAI\desappint21\p02-areacirculo\obj\Debug\net5.0\p02-areacirculo.pdb
+D:\Universidad\Semestre9\DAI\desappint21\p02-areacirculo\obj\Debug\net5.0\p02-areacirculo.genruntimeconfig.cache
