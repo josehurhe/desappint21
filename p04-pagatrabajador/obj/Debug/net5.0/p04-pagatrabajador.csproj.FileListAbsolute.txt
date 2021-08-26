@@ -1,0 +1,16 @@
+D:\Universidad\Semestre9\DAI\desappint21\p04-pagatrabajador\bin\Debug\net5.0\p04-pagatrabajador.exe
+D:\Universidad\Semestre9\DAI\desappint21\p04-pagatrabajador\bin\Debug\net5.0\p04-pagatrabajador.deps.json
+D:\Universidad\Semestre9\DAI\desappint21\p04-pagatrabajador\bin\Debug\net5.0\p04-pagatrabajador.runtimeconfig.json
+D:\Universidad\Semestre9\DAI\desappint21\p04-pagatrabajador\bin\Debug\net5.0\p04-pagatrabajador.runtimeconfig.dev.json
+D:\Universidad\Semestre9\DAI\desappint21\p04-pagatrabajador\bin\Debug\net5.0\p04-pagatrabajador.dll
+D:\Universidad\Semestre9\DAI\desappint21\p04-pagatrabajador\bin\Debug\net5.0\ref\p04-pagatrabajador.dll
+D:\Universidad\Semestre9\DAI\desappint21\p04-pagatrabajador\bin\Debug\net5.0\p04-pagatrabajador.pdb
+D:\Universidad\Semestre9\DAI\desappint21\p04-pagatrabajador\obj\Debug\net5.0\p04-pagatrabajador.csproj.AssemblyReference.cache
+D:\Universidad\Semestre9\DAI\desappint21\p04-pagatrabajador\obj\Debug\net5.0\p04-pagatrabajador.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\Semestre9\DAI\desappint21\p04-pagatrabajador\obj\Debug\net5.0\p04-pagatrabajador.AssemblyInfoInputs.cache
+D:\Universidad\Semestre9\DAI\desappint21\p04-pagatrabajador\obj\Debug\net5.0\p04-pagatrabajador.AssemblyInfo.cs
+D:\Universidad\Semestre9\DAI\desappint21\p04-pagatrabajador\obj\Debug\net5.0\p04-pagatrabajador.csproj.CoreCompileInputs.cache
+D:\Universidad\Semestre9\DAI\desappint21\p04-pagatrabajador\obj\Debug\net5.0\p04-pagatrabajador.dll
+D:\Universidad\Semestre9\DAI\desappint21\p04-pagatrabajador\obj\Debug\net5.0\ref\p04-pagatrabajador.dll
+D:\Universidad\Semestre9\DAI\desappint21\p04-pagatrabajador\obj\Debug\net5.0\p04-pagatrabajador.pdb
+D:\Universidad\Semestre9\DAI\desappint21\p04-pagatrabajador\obj\Debug\net5.0\p04-pagatrabajador.genruntimeconfig.cache
