@@ -6,5 +6,5 @@ José Humberto Rodríguez Hernández
 
 1. Hola mundo
 2. Área circulo
-3. Área circulo
-4. Área triangulo
+3. Área triangulo
+4. Paga Trabajador
