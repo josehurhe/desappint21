@@ -1,0 +1,16 @@
+D:\Universidad\Semestre9\DAI\desappint21\p01-holamundo\bin\Debug\net5.0\p01-holamundo.exe
+D:\Universidad\Semestre9\DAI\desappint21\p01-holamundo\bin\Debug\net5.0\p01-holamundo.deps.json
+D:\Universidad\Semestre9\DAI\desappint21\p01-holamundo\bin\Debug\net5.0\p01-holamundo.runtimeconfig.json
+D:\Universidad\Semestre9\DAI\desappint21\p01-holamundo\bin\Debug\net5.0\p01-holamundo.runtimeconfig.dev.json
+D:\Universidad\Semestre9\DAI\desappint21\p01-holamundo\bin\Debug\net5.0\p01-holamundo.dll
+D:\Universidad\Semestre9\DAI\desappint21\p01-holamundo\bin\Debug\net5.0\ref\p01-holamundo.dll
+D:\Universidad\Semestre9\DAI\desappint21\p01-holamundo\bin\Debug\net5.0\p01-holamundo.pdb
+D:\Universidad\Semestre9\DAI\desappint21\p01-holamundo\obj\Debug\net5.0\p01-holamundo.csproj.AssemblyReference.cache
+D:\Universidad\Semestre9\DAI\desappint21\p01-holamundo\obj\Debug\net5.0\p01-holamundo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\Semestre9\DAI\desappint21\p01-holamundo\obj\Debug\net5.0\p01-holamundo.AssemblyInfoInputs.cache
+D:\Universidad\Semestre9\DAI\desappint21\p01-holamundo\obj\Debug\net5.0\p01-holamundo.AssemblyInfo.cs
+D:\Universidad\Semestre9\DAI\desappint21\p01-holamundo\obj\Debug\net5.0\p01-holamundo.csproj.CoreCompileInputs.cache
+D:\Universidad\Semestre9\DAI\desappint21\p01-holamundo\obj\Debug\net5.0\p01-holamundo.dll
+D:\Universidad\Semestre9\DAI\desappint21\p01-holamundo\obj\Debug\net5.0\ref\p01-holamundo.dll
+D:\Universidad\Semestre9\DAI\desappint21\p01-holamundo\obj\Debug\net5.0\p01-holamundo.pdb
+D:\Universidad\Semestre9\DAI\desappint21\p01-holamundo\obj\Debug\net5.0\p01-holamundo.genruntimeconfig.cache
