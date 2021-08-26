@@ -1,0 +1,16 @@
+D:\Universidad\Semestre9\DAI\desappint21\p03-areatriangulo\bin\Debug\net5.0\p03-areatriangulo.exe
+D:\Universidad\Semestre9\DAI\desappint21\p03-areatriangulo\bin\Debug\net5.0\p03-areatriangulo.deps.json
+D:\Universidad\Semestre9\DAI\desappint21\p03-areatriangulo\bin\Debug\net5.0\p03-areatriangulo.runtimeconfig.json
+D:\Universidad\Semestre9\DAI\desappint21\p03-areatriangulo\bin\Debug\net5.0\p03-areatriangulo.runtimeconfig.dev.json
+D:\Universidad\Semestre9\DAI\desappint21\p03-areatriangulo\bin\Debug\net5.0\p03-areatriangulo.dll
+D:\Universidad\Semestre9\DAI\desappint21\p03-areatriangulo\bin\Debug\net5.0\ref\p03-areatriangulo.dll
+D:\Universidad\Semestre9\DAI\desappint21\p03-areatriangulo\bin\Debug\net5.0\p03-areatriangulo.pdb
+D:\Universidad\Semestre9\DAI\desappint21\p03-areatriangulo\obj\Debug\net5.0\p03-areatriangulo.csproj.AssemblyReference.cache
+D:\Universidad\Semestre9\DAI\desappint21\p03-areatriangulo\obj\Debug\net5.0\p03-areatriangulo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\Semestre9\DAI\desappint21\p03-areatriangulo\obj\Debug\net5.0\p03-areatriangulo.AssemblyInfoInputs.cache
+D:\Universidad\Semestre9\DAI\desappint21\p03-areatriangulo\obj\Debug\net5.0\p03-areatriangulo.AssemblyInfo.cs
+D:\Universidad\Semestre9\DAI\desappint21\p03-areatriangulo\obj\Debug\net5.0\p03-areatriangulo.csproj.CoreCompileInputs.cache
+D:\Universidad\Semestre9\DAI\desappint21\p03-areatriangulo\obj\Debug\net5.0\p03-areatriangulo.dll
+D:\Universidad\Semestre9\DAI\desappint21\p03-areatriangulo\obj\Debug\net5.0\ref\p03-areatriangulo.dll
+D:\Universidad\Semestre9\DAI\desappint21\p03-areatriangulo\obj\Debug\net5.0\p03-areatriangulo.pdb
+D:\Universidad\Semestre9\DAI\desappint21\p03-areatriangulo\obj\Debug\net5.0\p03-areatriangulo.genruntimeconfig.cache
