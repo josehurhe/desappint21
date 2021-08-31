@@ -8,3 +8,9 @@ José Humberto Rodríguez Hernández
 2. Área circulo
 3. Área triangulo
 4. Paga Trabajador
+
+## Participación 02 - Programas sobre estructuras de control y estructuras de repetición
+
+5. Ciclos
+6. Pizza
+7. Tablas
