@@ -1,0 +1,16 @@
+D:\Universidad\Semestre9\DAI\desappint21\p06-pizza\obj\Debug\net5.0\p06-pizza.csproj.AssemblyReference.cache
+D:\Universidad\Semestre9\DAI\desappint21\p06-pizza\obj\Debug\net5.0\p06-pizza.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\Semestre9\DAI\desappint21\p06-pizza\obj\Debug\net5.0\p06-pizza.AssemblyInfoInputs.cache
+D:\Universidad\Semestre9\DAI\desappint21\p06-pizza\obj\Debug\net5.0\p06-pizza.AssemblyInfo.cs
+D:\Universidad\Semestre9\DAI\desappint21\p06-pizza\obj\Debug\net5.0\p06-pizza.csproj.CoreCompileInputs.cache
+D:\Universidad\Semestre9\DAI\desappint21\p06-pizza\bin\Debug\net5.0\p06-pizza.exe
+D:\Universidad\Semestre9\DAI\desappint21\p06-pizza\bin\Debug\net5.0\p06-pizza.deps.json
+D:\Universidad\Semestre9\DAI\desappint21\p06-pizza\bin\Debug\net5.0\p06-pizza.runtimeconfig.json
+D:\Universidad\Semestre9\DAI\desappint21\p06-pizza\bin\Debug\net5.0\p06-pizza.runtimeconfig.dev.json
+D:\Universidad\Semestre9\DAI\desappint21\p06-pizza\bin\Debug\net5.0\p06-pizza.dll
+D:\Universidad\Semestre9\DAI\desappint21\p06-pizza\bin\Debug\net5.0\ref\p06-pizza.dll
+D:\Universidad\Semestre9\DAI\desappint21\p06-pizza\bin\Debug\net5.0\p06-pizza.pdb
+D:\Universidad\Semestre9\DAI\desappint21\p06-pizza\obj\Debug\net5.0\p06-pizza.dll
+D:\Universidad\Semestre9\DAI\desappint21\p06-pizza\obj\Debug\net5.0\ref\p06-pizza.dll
+D:\Universidad\Semestre9\DAI\desappint21\p06-pizza\obj\Debug\net5.0\p06-pizza.pdb
+D:\Universidad\Semestre9\DAI\desappint21\p06-pizza\obj\Debug\net5.0\p06-pizza.genruntimeconfig.cache
