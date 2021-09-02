@@ -1,0 +1,16 @@
+D:\Universidad\Semestre9\DAI\desappint21\p11-vectorsumas\obj\Debug\net5.0\p11-vectorsumas.csproj.AssemblyReference.cache
+D:\Universidad\Semestre9\DAI\desappint21\p11-vectorsumas\obj\Debug\net5.0\p11-vectorsumas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\Semestre9\DAI\desappint21\p11-vectorsumas\obj\Debug\net5.0\p11-vectorsumas.AssemblyInfoInputs.cache
+D:\Universidad\Semestre9\DAI\desappint21\p11-vectorsumas\obj\Debug\net5.0\p11-vectorsumas.AssemblyInfo.cs
+D:\Universidad\Semestre9\DAI\desappint21\p11-vectorsumas\obj\Debug\net5.0\p11-vectorsumas.csproj.CoreCompileInputs.cache
+D:\Universidad\Semestre9\DAI\desappint21\p11-vectorsumas\bin\Debug\net5.0\p11-vectorsumas.exe
+D:\Universidad\Semestre9\DAI\desappint21\p11-vectorsumas\bin\Debug\net5.0\p11-vectorsumas.deps.json
+D:\Universidad\Semestre9\DAI\desappint21\p11-vectorsumas\bin\Debug\net5.0\p11-vectorsumas.runtimeconfig.json
+D:\Universidad\Semestre9\DAI\desappint21\p11-vectorsumas\bin\Debug\net5.0\p11-vectorsumas.runtimeconfig.dev.json
+D:\Universidad\Semestre9\DAI\desappint21\p11-vectorsumas\bin\Debug\net5.0\p11-vectorsumas.dll
+D:\Universidad\Semestre9\DAI\desappint21\p11-vectorsumas\bin\Debug\net5.0\ref\p11-vectorsumas.dll
+D:\Universidad\Semestre9\DAI\desappint21\p11-vectorsumas\bin\Debug\net5.0\p11-vectorsumas.pdb
+D:\Universidad\Semestre9\DAI\desappint21\p11-vectorsumas\obj\Debug\net5.0\p11-vectorsumas.dll
+D:\Universidad\Semestre9\DAI\desappint21\p11-vectorsumas\obj\Debug\net5.0\ref\p11-vectorsumas.dll
+D:\Universidad\Semestre9\DAI\desappint21\p11-vectorsumas\obj\Debug\net5.0\p11-vectorsumas.pdb
+D:\Universidad\Semestre9\DAI\desappint21\p11-vectorsumas\obj\Debug\net5.0\p11-vectorsumas.genruntimeconfig.cache
