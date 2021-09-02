@@ -1,0 +1,16 @@
+D:\Universidad\Semestre9\DAI\desappint21\p10-vectorcubo\obj\Debug\net5.0\p10-vectorcubo.csproj.AssemblyReference.cache
+D:\Universidad\Semestre9\DAI\desappint21\p10-vectorcubo\obj\Debug\net5.0\p10-vectorcubo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\Semestre9\DAI\desappint21\p10-vectorcubo\obj\Debug\net5.0\p10-vectorcubo.AssemblyInfoInputs.cache
+D:\Universidad\Semestre9\DAI\desappint21\p10-vectorcubo\obj\Debug\net5.0\p10-vectorcubo.AssemblyInfo.cs
+D:\Universidad\Semestre9\DAI\desappint21\p10-vectorcubo\obj\Debug\net5.0\p10-vectorcubo.csproj.CoreCompileInputs.cache
+D:\Universidad\Semestre9\DAI\desappint21\p10-vectorcubo\bin\Debug\net5.0\p10-vectorcubo.exe
+D:\Universidad\Semestre9\DAI\desappint21\p10-vectorcubo\bin\Debug\net5.0\p10-vectorcubo.deps.json
+D:\Universidad\Semestre9\DAI\desappint21\p10-vectorcubo\bin\Debug\net5.0\p10-vectorcubo.runtimeconfig.json
+D:\Universidad\Semestre9\DAI\desappint21\p10-vectorcubo\bin\Debug\net5.0\p10-vectorcubo.runtimeconfig.dev.json
+D:\Universidad\Semestre9\DAI\desappint21\p10-vectorcubo\bin\Debug\net5.0\p10-vectorcubo.dll
+D:\Universidad\Semestre9\DAI\desappint21\p10-vectorcubo\bin\Debug\net5.0\ref\p10-vectorcubo.dll
+D:\Universidad\Semestre9\DAI\desappint21\p10-vectorcubo\bin\Debug\net5.0\p10-vectorcubo.pdb
+D:\Universidad\Semestre9\DAI\desappint21\p10-vectorcubo\obj\Debug\net5.0\p10-vectorcubo.dll
+D:\Universidad\Semestre9\DAI\desappint21\p10-vectorcubo\obj\Debug\net5.0\ref\p10-vectorcubo.dll
+D:\Universidad\Semestre9\DAI\desappint21\p10-vectorcubo\obj\Debug\net5.0\p10-vectorcubo.pdb
+D:\Universidad\Semestre9\DAI\desappint21\p10-vectorcubo\obj\Debug\net5.0\p10-vectorcubo.genruntimeconfig.cache
