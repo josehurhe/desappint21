@@ -14,3 +14,13 @@ José Humberto Rodríguez Hernández
 5. Ciclos
 6. Pizza
 7. Tablas
+
+## Participación 03 - Programas sobre Arreglos
+
+8. Vector promedio
+9. Vectores aleatorio
+10. Vector cubo
+11. Vector sumas
+12. Vector inverso
+13. Vector multiplica
+14. Vector estadísticas
