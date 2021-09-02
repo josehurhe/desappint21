@@ -1,0 +1,16 @@
+D:\Universidad\Semestre9\DAI\desappint21\p14-estadisticas\bin\Debug\net5.0\p14-estadisticas.exe
+D:\Universidad\Semestre9\DAI\desappint21\p14-estadisticas\bin\Debug\net5.0\p14-estadisticas.deps.json
+D:\Universidad\Semestre9\DAI\desappint21\p14-estadisticas\bin\Debug\net5.0\p14-estadisticas.runtimeconfig.json
+D:\Universidad\Semestre9\DAI\desappint21\p14-estadisticas\bin\Debug\net5.0\p14-estadisticas.runtimeconfig.dev.json
+D:\Universidad\Semestre9\DAI\desappint21\p14-estadisticas\bin\Debug\net5.0\p14-estadisticas.dll
+D:\Universidad\Semestre9\DAI\desappint21\p14-estadisticas\bin\Debug\net5.0\ref\p14-estadisticas.dll
+D:\Universidad\Semestre9\DAI\desappint21\p14-estadisticas\bin\Debug\net5.0\p14-estadisticas.pdb
+D:\Universidad\Semestre9\DAI\desappint21\p14-estadisticas\obj\Debug\net5.0\p14-estadisticas.csproj.AssemblyReference.cache
+D:\Universidad\Semestre9\DAI\desappint21\p14-estadisticas\obj\Debug\net5.0\p14-estadisticas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\Semestre9\DAI\desappint21\p14-estadisticas\obj\Debug\net5.0\p14-estadisticas.AssemblyInfoInputs.cache
+D:\Universidad\Semestre9\DAI\desappint21\p14-estadisticas\obj\Debug\net5.0\p14-estadisticas.AssemblyInfo.cs
+D:\Universidad\Semestre9\DAI\desappint21\p14-estadisticas\obj\Debug\net5.0\p14-estadisticas.csproj.CoreCompileInputs.cache
+D:\Universidad\Semestre9\DAI\desappint21\p14-estadisticas\obj\Debug\net5.0\p14-estadisticas.dll
+D:\Universidad\Semestre9\DAI\desappint21\p14-estadisticas\obj\Debug\net5.0\ref\p14-estadisticas.dll
+D:\Universidad\Semestre9\DAI\desappint21\p14-estadisticas\obj\Debug\net5.0\p14-estadisticas.pdb
+D:\Universidad\Semestre9\DAI\desappint21\p14-estadisticas\obj\Debug\net5.0\p14-estadisticas.genruntimeconfig.cache
