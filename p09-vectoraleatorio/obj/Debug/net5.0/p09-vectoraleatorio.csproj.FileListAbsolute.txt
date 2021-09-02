@@ -1,0 +1,16 @@
+D:\Universidad\Semestre9\DAI\desappint21\p09-vectoraleatorio\bin\Debug\net5.0\p09-vectoraleatorio.exe
+D:\Universidad\Semestre9\DAI\desappint21\p09-vectoraleatorio\bin\Debug\net5.0\p09-vectoraleatorio.deps.json
+D:\Universidad\Semestre9\DAI\desappint21\p09-vectoraleatorio\bin\Debug\net5.0\p09-vectoraleatorio.runtimeconfig.json
+D:\Universidad\Semestre9\DAI\desappint21\p09-vectoraleatorio\bin\Debug\net5.0\p09-vectoraleatorio.runtimeconfig.dev.json
+D:\Universidad\Semestre9\DAI\desappint21\p09-vectoraleatorio\bin\Debug\net5.0\p09-vectoraleatorio.dll
+D:\Universidad\Semestre9\DAI\desappint21\p09-vectoraleatorio\bin\Debug\net5.0\ref\p09-vectoraleatorio.dll
+D:\Universidad\Semestre9\DAI\desappint21\p09-vectoraleatorio\bin\Debug\net5.0\p09-vectoraleatorio.pdb
+D:\Universidad\Semestre9\DAI\desappint21\p09-vectoraleatorio\obj\Debug\net5.0\p09-vectoraleatorio.csproj.AssemblyReference.cache
+D:\Universidad\Semestre9\DAI\desappint21\p09-vectoraleatorio\obj\Debug\net5.0\p09-vectoraleatorio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\Semestre9\DAI\desappint21\p09-vectoraleatorio\obj\Debug\net5.0\p09-vectoraleatorio.AssemblyInfoInputs.cache
+D:\Universidad\Semestre9\DAI\desappint21\p09-vectoraleatorio\obj\Debug\net5.0\p09-vectoraleatorio.AssemblyInfo.cs
+D:\Universidad\Semestre9\DAI\desappint21\p09-vectoraleatorio\obj\Debug\net5.0\p09-vectoraleatorio.csproj.CoreCompileInputs.cache
+D:\Universidad\Semestre9\DAI\desappint21\p09-vectoraleatorio\obj\Debug\net5.0\p09-vectoraleatorio.dll
+D:\Universidad\Semestre9\DAI\desappint21\p09-vectoraleatorio\obj\Debug\net5.0\ref\p09-vectoraleatorio.dll
+D:\Universidad\Semestre9\DAI\desappint21\p09-vectoraleatorio\obj\Debug\net5.0\p09-vectoraleatorio.pdb
+D:\Universidad\Semestre9\DAI\desappint21\p09-vectoraleatorio\obj\Debug\net5.0\p09-vectoraleatorio.genruntimeconfig.cache
