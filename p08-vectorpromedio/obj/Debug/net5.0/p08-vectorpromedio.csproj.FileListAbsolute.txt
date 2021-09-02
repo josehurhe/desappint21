@@ -1,0 +1,16 @@
+D:\Universidad\Semestre9\DAI\desappint21\p08-vectorpromedio\bin\Debug\net5.0\p08-vectorpromedio.exe
+D:\Universidad\Semestre9\DAI\desappint21\p08-vectorpromedio\bin\Debug\net5.0\p08-vectorpromedio.deps.json
+D:\Universidad\Semestre9\DAI\desappint21\p08-vectorpromedio\bin\Debug\net5.0\p08-vectorpromedio.runtimeconfig.json
+D:\Universidad\Semestre9\DAI\desappint21\p08-vectorpromedio\bin\Debug\net5.0\p08-vectorpromedio.runtimeconfig.dev.json
+D:\Universidad\Semestre9\DAI\desappint21\p08-vectorpromedio\bin\Debug\net5.0\p08-vectorpromedio.dll
+D:\Universidad\Semestre9\DAI\desappint21\p08-vectorpromedio\bin\Debug\net5.0\ref\p08-vectorpromedio.dll
+D:\Universidad\Semestre9\DAI\desappint21\p08-vectorpromedio\bin\Debug\net5.0\p08-vectorpromedio.pdb
+D:\Universidad\Semestre9\DAI\desappint21\p08-vectorpromedio\obj\Debug\net5.0\p08-vectorpromedio.csproj.AssemblyReference.cache
+D:\Universidad\Semestre9\DAI\desappint21\p08-vectorpromedio\obj\Debug\net5.0\p08-vectorpromedio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\Semestre9\DAI\desappint21\p08-vectorpromedio\obj\Debug\net5.0\p08-vectorpromedio.AssemblyInfoInputs.cache
+D:\Universidad\Semestre9\DAI\desappint21\p08-vectorpromedio\obj\Debug\net5.0\p08-vectorpromedio.AssemblyInfo.cs
+D:\Universidad\Semestre9\DAI\desappint21\p08-vectorpromedio\obj\Debug\net5.0\p08-vectorpromedio.csproj.CoreCompileInputs.cache
+D:\Universidad\Semestre9\DAI\desappint21\p08-vectorpromedio\obj\Debug\net5.0\p08-vectorpromedio.dll
+D:\Universidad\Semestre9\DAI\desappint21\p08-vectorpromedio\obj\Debug\net5.0\ref\p08-vectorpromedio.dll
+D:\Universidad\Semestre9\DAI\desappint21\p08-vectorpromedio\obj\Debug\net5.0\p08-vectorpromedio.pdb
+D:\Universidad\Semestre9\DAI\desappint21\p08-vectorpromedio\obj\Debug\net5.0\p08-vectorpromedio.genruntimeconfig.cache
