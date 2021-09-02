@@ -1,0 +1,16 @@
+D:\Universidad\Semestre9\DAI\desappint21\p12-vectorinvertido\obj\Debug\net5.0\p12-vectorinvertido.csproj.AssemblyReference.cache
+D:\Universidad\Semestre9\DAI\desappint21\p12-vectorinvertido\obj\Debug\net5.0\p12-vectorinvertido.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\Semestre9\DAI\desappint21\p12-vectorinvertido\obj\Debug\net5.0\p12-vectorinvertido.AssemblyInfoInputs.cache
+D:\Universidad\Semestre9\DAI\desappint21\p12-vectorinvertido\obj\Debug\net5.0\p12-vectorinvertido.AssemblyInfo.cs
+D:\Universidad\Semestre9\DAI\desappint21\p12-vectorinvertido\obj\Debug\net5.0\p12-vectorinvertido.csproj.CoreCompileInputs.cache
+D:\Universidad\Semestre9\DAI\desappint21\p12-vectorinvertido\bin\Debug\net5.0\p12-vectorinvertido.exe
+D:\Universidad\Semestre9\DAI\desappint21\p12-vectorinvertido\bin\Debug\net5.0\p12-vectorinvertido.deps.json
+D:\Universidad\Semestre9\DAI\desappint21\p12-vectorinvertido\bin\Debug\net5.0\p12-vectorinvertido.runtimeconfig.json
+D:\Universidad\Semestre9\DAI\desappint21\p12-vectorinvertido\bin\Debug\net5.0\p12-vectorinvertido.runtimeconfig.dev.json
+D:\Universidad\Semestre9\DAI\desappint21\p12-vectorinvertido\bin\Debug\net5.0\p12-vectorinvertido.dll
+D:\Universidad\Semestre9\DAI\desappint21\p12-vectorinvertido\bin\Debug\net5.0\ref\p12-vectorinvertido.dll
+D:\Universidad\Semestre9\DAI\desappint21\p12-vectorinvertido\bin\Debug\net5.0\p12-vectorinvertido.pdb
+D:\Universidad\Semestre9\DAI\desappint21\p12-vectorinvertido\obj\Debug\net5.0\p12-vectorinvertido.dll
+D:\Universidad\Semestre9\DAI\desappint21\p12-vectorinvertido\obj\Debug\net5.0\ref\p12-vectorinvertido.dll
+D:\Universidad\Semestre9\DAI\desappint21\p12-vectorinvertido\obj\Debug\net5.0\p12-vectorinvertido.pdb
+D:\Universidad\Semestre9\DAI\desappint21\p12-vectorinvertido\obj\Debug\net5.0\p12-vectorinvertido.genruntimeconfig.cache
