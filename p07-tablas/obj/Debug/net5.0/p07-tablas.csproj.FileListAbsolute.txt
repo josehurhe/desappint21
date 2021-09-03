@@ -1,0 +1,16 @@
+D:\Universidad\Semestre9\DAI\desappint21\p07-tablas\bin\Debug\net5.0\p07-tablas.exe
+D:\Universidad\Semestre9\DAI\desappint21\p07-tablas\bin\Debug\net5.0\p07-tablas.deps.json
+D:\Universidad\Semestre9\DAI\desappint21\p07-tablas\bin\Debug\net5.0\p07-tablas.runtimeconfig.json
+D:\Universidad\Semestre9\DAI\desappint21\p07-tablas\bin\Debug\net5.0\p07-tablas.runtimeconfig.dev.json
+D:\Universidad\Semestre9\DAI\desappint21\p07-tablas\bin\Debug\net5.0\p07-tablas.dll
+D:\Universidad\Semestre9\DAI\desappint21\p07-tablas\bin\Debug\net5.0\ref\p07-tablas.dll
+D:\Universidad\Semestre9\DAI\desappint21\p07-tablas\bin\Debug\net5.0\p07-tablas.pdb
+D:\Universidad\Semestre9\DAI\desappint21\p07-tablas\obj\Debug\net5.0\p07-tablas.csproj.AssemblyReference.cache
+D:\Universidad\Semestre9\DAI\desappint21\p07-tablas\obj\Debug\net5.0\p07-tablas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\Semestre9\DAI\desappint21\p07-tablas\obj\Debug\net5.0\p07-tablas.AssemblyInfoInputs.cache
+D:\Universidad\Semestre9\DAI\desappint21\p07-tablas\obj\Debug\net5.0\p07-tablas.AssemblyInfo.cs
+D:\Universidad\Semestre9\DAI\desappint21\p07-tablas\obj\Debug\net5.0\p07-tablas.csproj.CoreCompileInputs.cache
+D:\Universidad\Semestre9\DAI\desappint21\p07-tablas\obj\Debug\net5.0\p07-tablas.dll
+D:\Universidad\Semestre9\DAI\desappint21\p07-tablas\obj\Debug\net5.0\ref\p07-tablas.dll
+D:\Universidad\Semestre9\DAI\desappint21\p07-tablas\obj\Debug\net5.0\p07-tablas.pdb
+D:\Universidad\Semestre9\DAI\desappint21\p07-tablas\obj\Debug\net5.0\p07-tablas.genruntimeconfig.cache
