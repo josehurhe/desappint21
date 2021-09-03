@@ -1,0 +1,16 @@
+D:\Universidad\Semestre9\DAI\desappint21\p13-vectormultiplica\obj\Debug\net5.0\p13-vectormultiplica.csproj.AssemblyReference.cache
+D:\Universidad\Semestre9\DAI\desappint21\p13-vectormultiplica\obj\Debug\net5.0\p13-vectormultiplica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\Semestre9\DAI\desappint21\p13-vectormultiplica\obj\Debug\net5.0\p13-vectormultiplica.AssemblyInfoInputs.cache
+D:\Universidad\Semestre9\DAI\desappint21\p13-vectormultiplica\obj\Debug\net5.0\p13-vectormultiplica.AssemblyInfo.cs
+D:\Universidad\Semestre9\DAI\desappint21\p13-vectormultiplica\obj\Debug\net5.0\p13-vectormultiplica.csproj.CoreCompileInputs.cache
+D:\Universidad\Semestre9\DAI\desappint21\p13-vectormultiplica\bin\Debug\net5.0\p13-vectormultiplica.exe
+D:\Universidad\Semestre9\DAI\desappint21\p13-vectormultiplica\bin\Debug\net5.0\p13-vectormultiplica.deps.json
+D:\Universidad\Semestre9\DAI\desappint21\p13-vectormultiplica\bin\Debug\net5.0\p13-vectormultiplica.runtimeconfig.json
+D:\Universidad\Semestre9\DAI\desappint21\p13-vectormultiplica\bin\Debug\net5.0\p13-vectormultiplica.runtimeconfig.dev.json
+D:\Universidad\Semestre9\DAI\desappint21\p13-vectormultiplica\bin\Debug\net5.0\p13-vectormultiplica.dll
+D:\Universidad\Semestre9\DAI\desappint21\p13-vectormultiplica\bin\Debug\net5.0\ref\p13-vectormultiplica.dll
+D:\Universidad\Semestre9\DAI\desappint21\p13-vectormultiplica\bin\Debug\net5.0\p13-vectormultiplica.pdb
+D:\Universidad\Semestre9\DAI\desappint21\p13-vectormultiplica\obj\Debug\net5.0\p13-vectormultiplica.dll
+D:\Universidad\Semestre9\DAI\desappint21\p13-vectormultiplica\obj\Debug\net5.0\ref\p13-vectormultiplica.dll
+D:\Universidad\Semestre9\DAI\desappint21\p13-vectormultiplica\obj\Debug\net5.0\p13-vectormultiplica.pdb
+D:\Universidad\Semestre9\DAI\desappint21\p13-vectormultiplica\obj\Debug\net5.0\p13-vectormultiplica.genruntimeconfig.cache
