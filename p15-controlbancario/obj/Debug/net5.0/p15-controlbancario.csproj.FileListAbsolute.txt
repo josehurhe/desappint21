@@ -1,0 +1,16 @@
+D:\Universidad\Semestre9\DAI\desappint21\p15-controlbancario\obj\Debug\net5.0\p15-controlbancario.csproj.AssemblyReference.cache
+D:\Universidad\Semestre9\DAI\desappint21\p15-controlbancario\obj\Debug\net5.0\p15-controlbancario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\Semestre9\DAI\desappint21\p15-controlbancario\obj\Debug\net5.0\p15-controlbancario.AssemblyInfoInputs.cache
+D:\Universidad\Semestre9\DAI\desappint21\p15-controlbancario\obj\Debug\net5.0\p15-controlbancario.AssemblyInfo.cs
+D:\Universidad\Semestre9\DAI\desappint21\p15-controlbancario\obj\Debug\net5.0\p15-controlbancario.csproj.CoreCompileInputs.cache
+D:\Universidad\Semestre9\DAI\desappint21\p15-controlbancario\bin\Debug\net5.0\p15-controlbancario.exe
+D:\Universidad\Semestre9\DAI\desappint21\p15-controlbancario\bin\Debug\net5.0\p15-controlbancario.deps.json
+D:\Universidad\Semestre9\DAI\desappint21\p15-controlbancario\bin\Debug\net5.0\p15-controlbancario.runtimeconfig.json
+D:\Universidad\Semestre9\DAI\desappint21\p15-controlbancario\bin\Debug\net5.0\p15-controlbancario.runtimeconfig.dev.json
+D:\Universidad\Semestre9\DAI\desappint21\p15-controlbancario\bin\Debug\net5.0\p15-controlbancario.dll
+D:\Universidad\Semestre9\DAI\desappint21\p15-controlbancario\bin\Debug\net5.0\ref\p15-controlbancario.dll
+D:\Universidad\Semestre9\DAI\desappint21\p15-controlbancario\bin\Debug\net5.0\p15-controlbancario.pdb
+D:\Universidad\Semestre9\DAI\desappint21\p15-controlbancario\obj\Debug\net5.0\p15-controlbancario.dll
+D:\Universidad\Semestre9\DAI\desappint21\p15-controlbancario\obj\Debug\net5.0\ref\p15-controlbancario.dll
+D:\Universidad\Semestre9\DAI\desappint21\p15-controlbancario\obj\Debug\net5.0\p15-controlbancario.pdb
+D:\Universidad\Semestre9\DAI\desappint21\p15-controlbancario\obj\Debug\net5.0\p15-controlbancario.genruntimeconfig.cache
