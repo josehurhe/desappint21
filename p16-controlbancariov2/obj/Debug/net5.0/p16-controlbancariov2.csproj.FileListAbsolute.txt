@@ -1,0 +1,16 @@
+D:\Universidad\Semestre9\DAI\desappint21\p16-controlbancariov2\bin\Debug\net5.0\p16-controlbancariov2.exe
+D:\Universidad\Semestre9\DAI\desappint21\p16-controlbancariov2\bin\Debug\net5.0\p16-controlbancariov2.deps.json
+D:\Universidad\Semestre9\DAI\desappint21\p16-controlbancariov2\bin\Debug\net5.0\p16-controlbancariov2.runtimeconfig.json
+D:\Universidad\Semestre9\DAI\desappint21\p16-controlbancariov2\bin\Debug\net5.0\p16-controlbancariov2.runtimeconfig.dev.json
+D:\Universidad\Semestre9\DAI\desappint21\p16-controlbancariov2\bin\Debug\net5.0\p16-controlbancariov2.dll
+D:\Universidad\Semestre9\DAI\desappint21\p16-controlbancariov2\bin\Debug\net5.0\ref\p16-controlbancariov2.dll
+D:\Universidad\Semestre9\DAI\desappint21\p16-controlbancariov2\bin\Debug\net5.0\p16-controlbancariov2.pdb
+D:\Universidad\Semestre9\DAI\desappint21\p16-controlbancariov2\obj\Debug\net5.0\p16-controlbancariov2.csproj.AssemblyReference.cache
+D:\Universidad\Semestre9\DAI\desappint21\p16-controlbancariov2\obj\Debug\net5.0\p16-controlbancariov2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\Semestre9\DAI\desappint21\p16-controlbancariov2\obj\Debug\net5.0\p16-controlbancariov2.AssemblyInfoInputs.cache
+D:\Universidad\Semestre9\DAI\desappint21\p16-controlbancariov2\obj\Debug\net5.0\p16-controlbancariov2.AssemblyInfo.cs
+D:\Universidad\Semestre9\DAI\desappint21\p16-controlbancariov2\obj\Debug\net5.0\p16-controlbancariov2.csproj.CoreCompileInputs.cache
+D:\Universidad\Semestre9\DAI\desappint21\p16-controlbancariov2\obj\Debug\net5.0\p16-controlbancariov2.dll
+D:\Universidad\Semestre9\DAI\desappint21\p16-controlbancariov2\obj\Debug\net5.0\ref\p16-controlbancariov2.dll
+D:\Universidad\Semestre9\DAI\desappint21\p16-controlbancariov2\obj\Debug\net5.0\p16-controlbancariov2.pdb
+D:\Universidad\Semestre9\DAI\desappint21\p16-controlbancariov2\obj\Debug\net5.0\p16-controlbancariov2.genruntimeconfig.cache
