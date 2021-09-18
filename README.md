@@ -32,3 +32,7 @@ José Humberto Rodríguez Hernández
 ## Participación 05 - Programa Objetos v2
 
 16. Control Bancario v2
+
+## Participación 06 - Repaso de programación orientada a objetos
+
+17. Repaso objetos
