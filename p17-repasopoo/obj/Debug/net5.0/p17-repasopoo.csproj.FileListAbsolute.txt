@@ -1,0 +1,16 @@
+D:\Universidad\Semestre9\DAI\desappint21\p17-repasopoo\bin\Debug\net5.0\p17-repasopoo.exe
+D:\Universidad\Semestre9\DAI\desappint21\p17-repasopoo\bin\Debug\net5.0\p17-repasopoo.deps.json
+D:\Universidad\Semestre9\DAI\desappint21\p17-repasopoo\bin\Debug\net5.0\p17-repasopoo.runtimeconfig.json
+D:\Universidad\Semestre9\DAI\desappint21\p17-repasopoo\bin\Debug\net5.0\p17-repasopoo.runtimeconfig.dev.json
+D:\Universidad\Semestre9\DAI\desappint21\p17-repasopoo\bin\Debug\net5.0\p17-repasopoo.dll
+D:\Universidad\Semestre9\DAI\desappint21\p17-repasopoo\bin\Debug\net5.0\ref\p17-repasopoo.dll
+D:\Universidad\Semestre9\DAI\desappint21\p17-repasopoo\bin\Debug\net5.0\p17-repasopoo.pdb
+D:\Universidad\Semestre9\DAI\desappint21\p17-repasopoo\obj\Debug\net5.0\p17-repasopoo.csproj.AssemblyReference.cache
+D:\Universidad\Semestre9\DAI\desappint21\p17-repasopoo\obj\Debug\net5.0\p17-repasopoo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\Semestre9\DAI\desappint21\p17-repasopoo\obj\Debug\net5.0\p17-repasopoo.AssemblyInfoInputs.cache
+D:\Universidad\Semestre9\DAI\desappint21\p17-repasopoo\obj\Debug\net5.0\p17-repasopoo.AssemblyInfo.cs
+D:\Universidad\Semestre9\DAI\desappint21\p17-repasopoo\obj\Debug\net5.0\p17-repasopoo.csproj.CoreCompileInputs.cache
+D:\Universidad\Semestre9\DAI\desappint21\p17-repasopoo\obj\Debug\net5.0\p17-repasopoo.dll
+D:\Universidad\Semestre9\DAI\desappint21\p17-repasopoo\obj\Debug\net5.0\ref\p17-repasopoo.dll
+D:\Universidad\Semestre9\DAI\desappint21\p17-repasopoo\obj\Debug\net5.0\p17-repasopoo.pdb
+D:\Universidad\Semestre9\DAI\desappint21\p17-repasopoo\obj\Debug\net5.0\p17-repasopoo.genruntimeconfig.cache
