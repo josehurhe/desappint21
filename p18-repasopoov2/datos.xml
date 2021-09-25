@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<Red xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <empresa>Universidad Autonoma de Zacatecas</empresa>
+  <propietario>Juan Perez</propietario>
+  <domicilio>Jardín Juarez 147</domicilio>
+  <nodos>
+    <Nodo>
+      <ip>192.168.0.10</ip>
+      <tipo>servidor</tipo>
+      <puertos>5</puertos>
+      <saltos>10</saltos>
+      <so>linux</so>
+      <vulnerabilidades>
+        <Vulnerabilidad>
+          <clave>CVE-2015-1635</clave>
+          <vendedor>microsoft</vendedor>
+          <descripcion>HTTP.sys permite a atacantes remotos ejecutar código arbitrario</descripcion>
+          <tipo>remota</tipo>
+          <fecha>2015-04-14T00:00:00</fecha>
+        </Vulnerabilidad>
+        <Vulnerabilidad>
+          <clave>CVE-2017-0004</clave>
+          <vendedor>microsoft</vendedor>
+          <descripcion>El servicio LSASS permite causar una denegación de servicio</descripcion>
+          <tipo>local</tipo>
+          <fecha>2011-10-01T00:00:00</fecha>
+        </Vulnerabilidad>
+      </vulnerabilidades>
+    </Nodo>
+    <Nodo>
+      <ip>192.168.0.12</ip>
+      <tipo>equipoactivo</tipo>
+      <puertos>2</puertos>
+      <saltos>12</saltos>
+      <so>ios</so>
+      <vulnerabilidades>
+        <Vulnerabilidad>
+          <clave>CVE-2017-3847</clave>
+          <vendedor>cisco</vendedor>
+          <descripcion>Cisco Firepower Management Center XSS</descripcion>
+          <tipo>remota</tipo>
+          <fecha>2017-02-21T00:00:00</fecha>
+        </Vulnerabilidad>
+      </vulnerabilidades>
+    </Nodo>
+    <Nodo>
+      <ip>192.168.0.20</ip>
+      <tipo>computadora</tipo>
+      <puertos>8</puertos>
+      <saltos>5</saltos>
+      <so>windows</so>
+      <vulnerabilidades>
+        <Vulnerabilidad>
+          <clave>CVE-2009-2504</clave>
+          <vendedor>microsoft</vendedor>
+          <descripcion>Múltiples desbordamientos de enteros en APIs Microsoft .NET 5</descripcion>
+          <tipo>local</tipo>
+          <fecha>2009-11-13T00:00:00</fecha>
+        </Vulnerabilidad>
+        <Vulnerabilidad>
+          <clave>CVE-2016-7271</clave>
+          <vendedor>microsoft</vendedor>
+          <descripcion>Elevación de privilegios Kernel Segura en Windows 10 Gold</descripcion>
+          <tipo>local</tipo>
+          <fecha>2016-12-20T00:00:00</fecha>
+        </Vulnerabilidad>
+        <Vulnerabilidad>
+          <clave>CVE-2017-2996</clave>
+          <vendedor>adobe</vendedor>
+          <descripcion>Adobe Flash Player 24.0.0.194 corrupción de memoria explotable</descripcion>
+          <tipo>remota</tipo>
+          <fecha>2017-02-15T00:00:00</fecha>
+        </Vulnerabilidad>
+      </vulnerabilidades>
+    </Nodo>
+    <Nodo>
+      <ip>192.168.0.20</ip>
+      <tipo>servidor</tipo>
+      <puertos>10</puertos>
+      <saltos>22</saltos>
+      <so>linux</so>
+      <vulnerabilidades />
+    </Nodo>
+  </nodos>
+</Red>
