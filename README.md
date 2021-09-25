@@ -36,3 +36,4 @@ José Humberto Rodríguez Hernández
 ## Participación 06 - Repaso de programación orientada a objetos
 
 17. Repaso objetos
+17. Repaso objetos v2
