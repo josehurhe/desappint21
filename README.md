@@ -36,4 +36,8 @@ José Humberto Rodríguez Hernández
 ## Participación 06 - Repaso de programación orientada a objetos
 
 17. Repaso objetos
-17. Repaso objetos v2
+18. Repaso objetos v2
+
+## Participación 07 - Programa Blazor CRUD hecho en clase
+
+20. CRUD Blazor
