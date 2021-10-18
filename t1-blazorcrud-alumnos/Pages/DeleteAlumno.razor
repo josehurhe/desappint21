@@ -1,0 +1,71 @@
+﻿@page "/DeleteAlumno/{Id}"
+@using t1_blazorcrud_alumnos.Data
+@inject AlumnoService alumnoService
+@inject NavigationManager NavigationManager
+
+<h3>Delete Alumno</h3>
+<hr>
+<h3>Are you sure want to delete this?</h3>
+
+<form>
+    <div class="row">
+        <div class=" col-md-8">
+            <div class="form-group">
+                <label>Alumno Id:</label>
+                <label>@obj.Id</label>
+            </div>
+            <div class="form-group">
+                <label>Matricula:</label>
+                <label>@obj.Matricula</label>
+            </div>
+            <div class="form-group">
+                <label>Nombre:</label>
+                <label>@obj.Nombre</label>
+            </div>
+            <div class="form-group">
+                <label>Primer Apellido:</label>
+                <label>@obj.PrimerApellido</label>
+            </div>
+            <div class="form-group">
+                <label>Segundo Apellido:</label>
+                <label>@obj.SegundoApellido</label>
+            </div>
+            <div class="form-group">
+                <label>Fecha Nacimiento:</label>
+                <label>@obj.FechaNacimiento.Date.ToString("dd/MM/yyyy")</label>
+            </div>
+            <div class="form-group">
+                <label>Genero:</label>
+                <label>@obj.Genero</label>
+            </div>
+        </div>
+
+    </div>
+    <div class="row">
+        <div class="col-md-4">
+            <div class="form-group">
+                <input type="button" class="btn btn-danger" @onclick="@RemoveAlumno" value="Delete" />
+                <input type="button" class="btn btn-primary" @onclick="@Cancel" value="Cancel" />
+            </div>
+        </div>
+    </div>
+</form>
+
+@code {
+    [Parameter]
+    public string Id { get; set; }
+    Alumno obj = new Alumno();
+    protected override void OnInitialized()
+    {
+        obj = alumnoService.GetAlumno(Convert.ToInt32(Id));
+    }
+    protected void RemoveAlumno()
+    {
+        alumnoService.DeleteAlumno(obj);
+        NavigationManager.NavigateTo("Alumnos");
+    }
+    void Cancel()
+    {
+        NavigationManager.NavigateTo("Alumnos");
+    }
+}

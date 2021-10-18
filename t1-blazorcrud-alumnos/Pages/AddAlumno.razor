@@ -1,0 +1,65 @@
+﻿@page "/AddAlumno"
+@using t1_blazorcrud_alumnos.Data
+@inject AlumnoService alumnoService
+@inject NavigationManager NavigationManager
+
+<h3>Add Alumno</h3>
+<hr>
+
+<form>
+    <div class="row">
+        <div class="col-md-8">
+            <div class="form-group">
+                <label for="Matricula" class="control-label">Matricula</label>
+                <input form="Matricula" class="form-control" @bind="@obj.Matricula" />
+            </div>
+            <div class="form-group">
+                <label for="Nombre" class="control-label">Nombre</label>
+                <input form="Nombre" class="form-control" @bind="@obj.Nombre" />
+            </div>
+            <div class="form-group">
+                <label for="PrimerApellido" class="control-label">Primer Apellido</label>
+                <input form="PrimerApellido" class="form-control" @bind="@obj.PrimerApellido" />
+            </div>
+            <div class="form-group">
+                <label for="SegundoApellido" class="control-label">Segundo Apellido</label>
+                <input form="SegundoApellido" class="form-control" @bind="@obj.SegundoApellido" />
+            </div>
+            <div class="form-group">
+                <label for="FechaNacimiento" class="control-label">Fecha Nacimiento</label>
+                <input type="date" form="FechaNacimiento" class="form-control" @bind="@obj.FechaNacimiento" />
+            </div>
+
+            <div class="form-group">
+                <label for="Genero" class="control-label"></label>
+                <select @bind="@obj.Genero" class="form-control">
+                    <option value="" selected disabled>-Selecciona genero</option>
+                    <option value="Masculino">Masculino</option>
+                    <option value="Femenino">Femenino</option>
+                </select>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-4">
+            <div class="form-group">
+                <input type="button" class="btn btn-primary" @onclick="@CreateAlumno" value="Save"/>
+                <input type="button" class="btn btn-primary" @onclick="@Cancel" value="Cancel"/>
+            </div>
+        </div>
+    </div>
+</form>
+
+@code {
+    Alumno obj = new Alumno();
+    protected void CreateAlumno()
+    {
+        alumnoService.InsertAlumno(obj);
+        NavigationManager.NavigateTo("Alumnos");
+    }
+    void Cancel()
+    {
+        NavigationManager.NavigateTo("Alumnos");
+    }
+}

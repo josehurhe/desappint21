@@ -1,0 +1,60 @@
+﻿@page "/Alumnos"
+@using t1_blazorcrud_alumnos.Data
+@inject AlumnoService alumnoService
+
+<NavLink class="btn btn-primary" href="AddAlumno">
+    <i class="oi oi-plus"></i>&nbsp;Add New
+</NavLink>
+
+<h3>Alumnos Info</h3>
+
+@if (AlumObj is null)
+{
+    <p><em>Loading... !</em></p>
+}
+else
+{
+    <table class="table">
+            <thead>
+                <tr>
+                    <th>Matricula</th>
+                    <th>Nombre</th>
+                    <th>Primer Apellido</th>
+                    <th>Segundo Apellido</th>
+                    <th>Fecha Nacimiento</th>
+                    <th>Genero</th>
+                    <th></th>
+                    <th></th>
+                </tr>
+            </thead>
+        <tbody>
+            @foreach(var alu in AlumObj)
+                {
+            <tr>
+                <td>@alu.Matricula</td>
+                <td>@alu.Nombre</td>
+                <td>@alu.PrimerApellido</td>
+                <td>@alu.SegundoApellido</td>
+                <td>@alu.FechaNacimiento.Date.ToString("dd/MM/yyyy")</td>
+                <td>@alu.Genero</td>
+                <td>
+                    <a class="btn btn-primary" href="EditAlumno/@alu.Id">
+                        <i class="oi oi-pencil"></i>&nbsp;Edit
+                    </a>
+                    <a class="btn btn-danger" href="DeleteAlumno/@alu.Id">
+                        <i class="oi oi-trash"></i>&nbsp;Delete
+                    </a>
+                </td>
+            </tr>
+                }
+        </tbody>
+    </table>
+}
+
+@code {
+    List<Alumno> AlumObj;
+    protected override void OnInitialized()
+    {
+        AlumObj = alumnoService.GetAllAlumnos();
+    }
+}
