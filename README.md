@@ -41,3 +41,6 @@ José Humberto Rodríguez Hernández
 ## Participación 07 - Programa Blazor CRUD hecho en clase
 
 20. CRUD Blazor
+
+## Participación 08 - Modelado de la base de datos
+21. Universidad (modelado de base de datos) v1
