@@ -1,0 +1,60 @@
+@page "/Estudiantes"
+@using p22_universidadv2.Modelo;
+@using p22_universidadv2.Servicio;
+@inject ServicioEstudidantes serv
+
+<NavLink class="btn btn-primary" href="AgregarEstudiantes">
+    <i class="oi oi-plus"></i>&nbsp;Agregar Nuevo
+</NavLink>
+
+<h1>Informacion de Estudiantes</h1>
+
+@if (obj is null)
+{
+    <p><em>Cargando...!</em></p>
+}
+else
+{
+    <table class="table">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Apellido Paterno</th>
+                    <th>Apellido Materno</th>
+                    <th>Nombre</th>
+                    <th>Email</th>
+                    <th>Fecha Ingreso</th>
+                    <th></th>
+                </tr>
+            </thead>
+        <tbody>
+            @foreach(var i in obj)
+                {
+            <tr>
+                <td>@i.Id</td>
+                <td>@i.Apaterno</td>
+                <td>@i.Amaterno</td>
+                <td>@i.Nombre</td>
+                <td>@i.Email</td>
+                <td>@i.FechaIngreso.ToString("yyyy-MMM-dd")</td>
+                <td>
+                    <a class="btn btn-primary" href="EditarEstudiantes/@i.Id">
+                        <i class="oi oi-pencil"></i>&nbsp;Editar
+                    </a>
+                    <a class="btn btn-danger" href="EliminarEstudiantes/@i.Id">
+                        <i class="oi oi-trash"></i>&nbsp;Eliminar
+                    </a>
+                </td>
+            </tr>
+                }
+        </tbody>
+    </table>
+}
+
+@code{
+    List<Estudiante> obj;
+    protected override void OnInitialized()
+    {
+        obj = serv.ObtienerTodo();
+    }
+}
