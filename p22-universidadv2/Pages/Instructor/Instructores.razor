@@ -24,6 +24,8 @@ else
                     <th>Nombre</th>
                     <th>Email</th>
                     <th>Fecha de Contratacion</th>
+                    <th>Ubicacion</th>
+                    <th>Cursos Asignados</th>
                     <th></th>
                 </tr>
             </thead>
@@ -37,6 +39,17 @@ else
                 <td>@i.Nombre</td>
                 <td>@i.Email</td>
                 <td>@i.FechaContratacion.ToString("yyyy-MMM-dd")</td>
+                <td>@(i.OficinaAsignada == null ? "Sin oficina" : i.OficinaAsignada.Ubicacion)</td>
+                @if(i.AsignacionCursos.Count == 0){
+                    <td>Sin asignacion</td>
+                } else{
+                    <td>
+                        @foreach (var a in i.AsignacionCursos)
+                        {
+                            @a.CursoId @:- @a.Curso.Titulo <br>
+                        }
+                    </td>
+                }
                 <td>
                     <a class="btn btn-primary" href="EditarInstructores/@i.Id">
                         <i class="oi oi-pencil"></i>&nbsp;Editar

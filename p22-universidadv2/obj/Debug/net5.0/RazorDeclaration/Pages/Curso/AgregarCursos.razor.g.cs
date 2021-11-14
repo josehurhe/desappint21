@@ -4,7 +4,7 @@
 #pragma warning disable 0649
 #pragma warning disable 0169
 
-namespace p22_universidadv2.Pages.Estudiante
+namespace p22_universidadv2.Pages.Curso
 {
     #line hidden
     using System;
@@ -83,21 +83,21 @@ using p22_universidadv2.Shared;
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "D:\Universidad\Semestre9\DAI\desappint21\p22-universidadv2\Pages\Estudiante\Estudiantes.razor"
+#line 3 "D:\Universidad\Semestre9\DAI\desappint21\p22-universidadv2\Pages\Curso\AgregarCursos.razor"
 using p22_universidadv2.Modelo;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 3 "D:\Universidad\Semestre9\DAI\desappint21\p22-universidadv2\Pages\Estudiante\Estudiantes.razor"
+#line 4 "D:\Universidad\Semestre9\DAI\desappint21\p22-universidadv2\Pages\Curso\AgregarCursos.razor"
 using p22_universidadv2.Servicio;
 
 #line default
 #line hidden
 #nullable disable
-    [Microsoft.AspNetCore.Components.RouteAttribute("/Estudiantes")]
-    public partial class Estudiantes : Microsoft.AspNetCore.Components.ComponentBase
+    [Microsoft.AspNetCore.Components.RouteAttribute("/AgregarCursos")]
+    public partial class AgregarCursos : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
@@ -105,18 +105,31 @@ using p22_universidadv2.Servicio;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 65 "D:\Universidad\Semestre9\DAI\desappint21\p22-universidadv2\Pages\Estudiante\Estudiantes.razor"
-      
-    List<Estudiante> obj;
+#line 47 "D:\Universidad\Semestre9\DAI\desappint21\p22-universidadv2\Pages\Curso\AgregarCursos.razor"
+       
+    Curso obj = new Curso();
+    List<Departamento> objins;
+    protected void CrearCurso()
+    {
+        serv.Insertar(obj);
+        NavigationManager.NavigateTo("Cursos");
+    }
+    void Cancelar()
+    {
+        NavigationManager.NavigateTo("Cursos");
+    }
+
     protected override void OnInitialized()
     {
-        obj = serv.ObtienerTodo();
+        objins = sins.ObtienerTodo();
     }
 
 #line default
 #line hidden
 #nullable disable
-        [global::Microsoft.AspNetCore.Components.InjectAttribute] private ServicioEstudidantes serv { get; set; }
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private ServicioDepartamentos sins { get; set; }
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private ServicioCursos serv { get; set; }
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private NavigationManager NavigationManager { get; set; }
     }
 }
 #pragma warning restore 1591

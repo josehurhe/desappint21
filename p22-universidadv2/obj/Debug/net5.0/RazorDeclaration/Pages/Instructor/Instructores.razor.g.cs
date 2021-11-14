@@ -105,7 +105,7 @@ using p22_universidadv2.Servicio;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 54 "D:\Universidad\Semestre9\DAI\desappint21\p22-universidadv2\Pages\Instructor\Instructores.razor"
+#line 67 "D:\Universidad\Semestre9\DAI\desappint21\p22-universidadv2\Pages\Instructor\Instructores.razor"
       
     List<Instructor> obj;
     protected override void OnInitialized()

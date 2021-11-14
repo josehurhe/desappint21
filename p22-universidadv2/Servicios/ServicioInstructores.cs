@@ -10,7 +10,10 @@ namespace p22_universidadv2.Servicio
     {
         private readonly UniContexto _contexto;
         public ServicioInstructores(UniContexto uniContexto) => _contexto = uniContexto;
-        public List<Instructor> ObtienerTodo() => _contexto.Instructores.ToList();
+        public List<Instructor> ObtienerTodo() => _contexto.Instructores
+        .Include(o => o.OficinaAsignada)
+        .Include(a => a.AsignacionCursos)
+        .ThenInclude(c => c.Curso).ToList();
         public Instructor Obtener(int Id){
             Instructor Instructor = _contexto.Instructores.FirstOrDefault(e => e.Id.Equals(Id));
             return Instructor;

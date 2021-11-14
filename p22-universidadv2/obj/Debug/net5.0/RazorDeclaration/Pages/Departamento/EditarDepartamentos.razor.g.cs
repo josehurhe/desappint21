@@ -4,7 +4,7 @@
 #pragma warning disable 0649
 #pragma warning disable 0169
 
-namespace p22_universidadv2.Pages.Estudiante
+namespace p22_universidadv2.Pages.Departamento
 {
     #line hidden
     using System;
@@ -83,21 +83,21 @@ using p22_universidadv2.Shared;
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "D:\Universidad\Semestre9\DAI\desappint21\p22-universidadv2\Pages\Estudiante\Estudiantes.razor"
+#line 3 "D:\Universidad\Semestre9\DAI\desappint21\p22-universidadv2\Pages\Departamento\EditarDepartamentos.razor"
 using p22_universidadv2.Modelo;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 3 "D:\Universidad\Semestre9\DAI\desappint21\p22-universidadv2\Pages\Estudiante\Estudiantes.razor"
+#line 4 "D:\Universidad\Semestre9\DAI\desappint21\p22-universidadv2\Pages\Departamento\EditarDepartamentos.razor"
 using p22_universidadv2.Servicio;
 
 #line default
 #line hidden
 #nullable disable
-    [Microsoft.AspNetCore.Components.RouteAttribute("/Estudiantes")]
-    public partial class Estudiantes : Microsoft.AspNetCore.Components.ComponentBase
+    [Microsoft.AspNetCore.Components.RouteAttribute("/EditarDepartamentos/{Id}")]
+    public partial class EditarDepartamentos : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
@@ -105,18 +105,34 @@ using p22_universidadv2.Servicio;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 65 "D:\Universidad\Semestre9\DAI\desappint21\p22-universidadv2\Pages\Estudiante\Estudiantes.razor"
-      
-    List<Estudiante> obj;
+#line 48 "D:\Universidad\Semestre9\DAI\desappint21\p22-universidadv2\Pages\Departamento\EditarDepartamentos.razor"
+       
+    [Parameter]
+    public string Id { get; set; }
+    Departamento obj = new Departamento();
+    List<Instructor> objins;
+    protected void ActualizarDepartamento()
+    {
+        serv.Actualizar(obj);
+        NavigationManager.NavigateTo("Departamentos");
+    }
+    void Cancelar()
+    {
+        NavigationManager.NavigateTo("Departamentos");
+    }
+
     protected override void OnInitialized()
     {
-        obj = serv.ObtienerTodo();
+        objins = sins.ObtienerTodo();
+        obj = serv.Obtener(Convert.ToInt32(Id));
     }
 
 #line default
 #line hidden
 #nullable disable
-        [global::Microsoft.AspNetCore.Components.InjectAttribute] private ServicioEstudidantes serv { get; set; }
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private ServicioInstructores sins { get; set; }
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private ServicioDepartamentos serv { get; set; }
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private NavigationManager NavigationManager { get; set; }
     }
 }
 #pragma warning restore 1591

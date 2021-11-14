@@ -45,72 +45,6 @@
         }
       },
       {
-        "HashCode": 722883716,
-        "Kind": "Components.Component",
-        "Name": "p22_universidadv2.Pages.Curso.Cursos",
-        "AssemblyName": "p22-universidadv2",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Cursos"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p22_universidadv2.Pages.Curso.Cursos"
-        }
-      },
-      {
-        "HashCode": -1299408293,
-        "Kind": "Components.Component",
-        "Name": "p22_universidadv2.Pages.Curso.Cursos",
-        "AssemblyName": "p22-universidadv2",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "p22_universidadv2.Pages.Curso.Cursos"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p22_universidadv2.Pages.Curso.Cursos",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 2096521792,
-        "Kind": "Components.Component",
-        "Name": "p22_universidadv2.Pages.Departamento.Departamentos",
-        "AssemblyName": "p22-universidadv2",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Departamentos"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p22_universidadv2.Pages.Departamento.Departamentos"
-        }
-      },
-      {
-        "HashCode": -2069366183,
-        "Kind": "Components.Component",
-        "Name": "p22_universidadv2.Pages.Departamento.Departamentos",
-        "AssemblyName": "p22-universidadv2",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "p22_universidadv2.Pages.Departamento.Departamentos"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p22_universidadv2.Pages.Departamento.Departamentos",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 1562779965,
         "Kind": "Components.Component",
         "Name": "p22_universidadv2.Pages.FetchData",
@@ -144,72 +78,6 @@
         }
       },
       {
-        "HashCode": -352691759,
-        "Kind": "Components.Component",
-        "Name": "p22_universidadv2.Pages.Index",
-        "AssemblyName": "p22-universidadv2",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p22_universidadv2.Pages.Index"
-        }
-      },
-      {
-        "HashCode": -1874961093,
-        "Kind": "Components.Component",
-        "Name": "p22_universidadv2.Pages.Index",
-        "AssemblyName": "p22-universidadv2",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "p22_universidadv2.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p22_universidadv2.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1945388045,
-        "Kind": "Components.Component",
-        "Name": "p22_universidadv2.Pages.Instructor.Instructores",
-        "AssemblyName": "p22-universidadv2",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Instructores"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p22_universidadv2.Pages.Instructor.Instructores"
-        }
-      },
-      {
-        "HashCode": -2045438547,
-        "Kind": "Components.Component",
-        "Name": "p22_universidadv2.Pages.Instructor.Instructores",
-        "AssemblyName": "p22-universidadv2",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "p22_universidadv2.Pages.Instructor.Instructores"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p22_universidadv2.Pages.Instructor.Instructores",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -1541600234,
         "Kind": "Components.Component",
         "Name": "p22_universidadv2.Pages.Instructor.AgregarInstructores",
@@ -239,59 +107,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "p22_universidadv2.Pages.Instructor.AgregarInstructores",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -797647583,
-        "Kind": "Components.Component",
-        "Name": "p22_universidadv2.Pages.Instructor.EliminarInstructores",
-        "AssemblyName": "p22-universidadv2",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "EliminarInstructores"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Id",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Id"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p22_universidadv2.Pages.Instructor.EliminarInstructores"
-        }
-      },
-      {
-        "HashCode": 40998020,
-        "Kind": "Components.Component",
-        "Name": "p22_universidadv2.Pages.Instructor.EliminarInstructores",
-        "AssemblyName": "p22-universidadv2",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "p22_universidadv2.Pages.Instructor.EliminarInstructores"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Id",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Id"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p22_universidadv2.Pages.Instructor.EliminarInstructores",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -349,35 +164,154 @@
         }
       },
       {
-        "HashCode": -1127720077,
+        "HashCode": -1945388045,
         "Kind": "Components.Component",
-        "Name": "p22_universidadv2.Pages.Estudiante.AgregarEstudiantes",
+        "Name": "p22_universidadv2.Pages.Instructor.Instructores",
         "AssemblyName": "p22-universidadv2",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "AgregarEstudiantes"
+            "TagName": "Instructores"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p22_universidadv2.Pages.Estudiante.AgregarEstudiantes"
+          "Common.TypeName": "p22_universidadv2.Pages.Instructor.Instructores"
         }
       },
       {
-        "HashCode": 1729576903,
+        "HashCode": -2045438547,
         "Kind": "Components.Component",
-        "Name": "p22_universidadv2.Pages.Estudiante.AgregarEstudiantes",
+        "Name": "p22_universidadv2.Pages.Instructor.Instructores",
         "AssemblyName": "p22-universidadv2",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "p22_universidadv2.Pages.Estudiante.AgregarEstudiantes"
+            "TagName": "p22_universidadv2.Pages.Instructor.Instructores"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p22_universidadv2.Pages.Estudiante.AgregarEstudiantes",
+          "Common.TypeName": "p22_universidadv2.Pages.Instructor.Instructores",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -797647583,
+        "Kind": "Components.Component",
+        "Name": "p22_universidadv2.Pages.Instructor.EliminarInstructores",
+        "AssemblyName": "p22-universidadv2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "EliminarInstructores"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "p22_universidadv2.Pages.Instructor.EliminarInstructores"
+        }
+      },
+      {
+        "HashCode": 40998020,
+        "Kind": "Components.Component",
+        "Name": "p22_universidadv2.Pages.Instructor.EliminarInstructores",
+        "AssemblyName": "p22-universidadv2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "p22_universidadv2.Pages.Instructor.EliminarInstructores"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "p22_universidadv2.Pages.Instructor.EliminarInstructores",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -352691759,
+        "Kind": "Components.Component",
+        "Name": "p22_universidadv2.Pages.Index",
+        "AssemblyName": "p22-universidadv2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "p22_universidadv2.Pages.Index"
+        }
+      },
+      {
+        "HashCode": -1874961093,
+        "Kind": "Components.Component",
+        "Name": "p22_universidadv2.Pages.Index",
+        "AssemblyName": "p22-universidadv2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "p22_universidadv2.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "p22_universidadv2.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1542263246,
+        "Kind": "Components.Component",
+        "Name": "p22_universidadv2.Pages.Estudiante.Estudiantes",
+        "AssemblyName": "p22-universidadv2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Estudiantes"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "p22_universidadv2.Pages.Estudiante.Estudiantes"
+        }
+      },
+      {
+        "HashCode": 1103030837,
+        "Kind": "Components.Component",
+        "Name": "p22_universidadv2.Pages.Estudiante.Estudiantes",
+        "AssemblyName": "p22-universidadv2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "p22_universidadv2.Pages.Estudiante.Estudiantes"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "p22_universidadv2.Pages.Estudiante.Estudiantes",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -435,6 +369,39 @@
         }
       },
       {
+        "HashCode": -1127720077,
+        "Kind": "Components.Component",
+        "Name": "p22_universidadv2.Pages.Estudiante.AgregarEstudiantes",
+        "AssemblyName": "p22-universidadv2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "AgregarEstudiantes"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "p22_universidadv2.Pages.Estudiante.AgregarEstudiantes"
+        }
+      },
+      {
+        "HashCode": 1729576903,
+        "Kind": "Components.Component",
+        "Name": "p22_universidadv2.Pages.Estudiante.AgregarEstudiantes",
+        "AssemblyName": "p22-universidadv2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "p22_universidadv2.Pages.Estudiante.AgregarEstudiantes"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "p22_universidadv2.Pages.Estudiante.AgregarEstudiantes",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -919120490,
         "Kind": "Components.Component",
         "Name": "p22_universidadv2.Pages.Estudiante.EditarEstudiantes",
@@ -488,35 +455,346 @@
         }
       },
       {
-        "HashCode": 1542263246,
+        "HashCode": 722883716,
         "Kind": "Components.Component",
-        "Name": "p22_universidadv2.Pages.Estudiante.Estudiantes",
+        "Name": "p22_universidadv2.Pages.Curso.Cursos",
         "AssemblyName": "p22-universidadv2",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Estudiantes"
+            "TagName": "Cursos"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p22_universidadv2.Pages.Estudiante.Estudiantes"
+          "Common.TypeName": "p22_universidadv2.Pages.Curso.Cursos"
         }
       },
       {
-        "HashCode": 1103030837,
+        "HashCode": -1299408293,
         "Kind": "Components.Component",
-        "Name": "p22_universidadv2.Pages.Estudiante.Estudiantes",
+        "Name": "p22_universidadv2.Pages.Curso.Cursos",
         "AssemblyName": "p22-universidadv2",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "p22_universidadv2.Pages.Estudiante.Estudiantes"
+            "TagName": "p22_universidadv2.Pages.Curso.Cursos"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p22_universidadv2.Pages.Estudiante.Estudiantes",
+          "Common.TypeName": "p22_universidadv2.Pages.Curso.Cursos",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1697438964,
+        "Kind": "Components.Component",
+        "Name": "p22_universidadv2.Pages.Curso.AgregarCursos",
+        "AssemblyName": "p22-universidadv2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "AgregarCursos"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "p22_universidadv2.Pages.Curso.AgregarCursos"
+        }
+      },
+      {
+        "HashCode": -633640433,
+        "Kind": "Components.Component",
+        "Name": "p22_universidadv2.Pages.Curso.AgregarCursos",
+        "AssemblyName": "p22-universidadv2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "p22_universidadv2.Pages.Curso.AgregarCursos"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "p22_universidadv2.Pages.Curso.AgregarCursos",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1668811238,
+        "Kind": "Components.Component",
+        "Name": "p22_universidadv2.Pages.Curso.EditarCursos",
+        "AssemblyName": "p22-universidadv2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "EditarCursos"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "p22_universidadv2.Pages.Curso.EditarCursos"
+        }
+      },
+      {
+        "HashCode": 927977005,
+        "Kind": "Components.Component",
+        "Name": "p22_universidadv2.Pages.Curso.EditarCursos",
+        "AssemblyName": "p22-universidadv2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "p22_universidadv2.Pages.Curso.EditarCursos"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "p22_universidadv2.Pages.Curso.EditarCursos",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 838774026,
+        "Kind": "Components.Component",
+        "Name": "p22_universidadv2.Pages.Curso.EliminarCursos",
+        "AssemblyName": "p22-universidadv2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "EliminarCursos"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "p22_universidadv2.Pages.Curso.EliminarCursos"
+        }
+      },
+      {
+        "HashCode": -527564115,
+        "Kind": "Components.Component",
+        "Name": "p22_universidadv2.Pages.Curso.EliminarCursos",
+        "AssemblyName": "p22-universidadv2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "p22_universidadv2.Pages.Curso.EliminarCursos"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "p22_universidadv2.Pages.Curso.EliminarCursos",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 2096521792,
+        "Kind": "Components.Component",
+        "Name": "p22_universidadv2.Pages.Departamento.Departamentos",
+        "AssemblyName": "p22-universidadv2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Departamentos"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "p22_universidadv2.Pages.Departamento.Departamentos"
+        }
+      },
+      {
+        "HashCode": -2069366183,
+        "Kind": "Components.Component",
+        "Name": "p22_universidadv2.Pages.Departamento.Departamentos",
+        "AssemblyName": "p22-universidadv2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "p22_universidadv2.Pages.Departamento.Departamentos"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "p22_universidadv2.Pages.Departamento.Departamentos",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 217476577,
+        "Kind": "Components.Component",
+        "Name": "p22_universidadv2.Pages.Departamento.EliminarDepartamentos",
+        "AssemblyName": "p22-universidadv2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "EliminarDepartamentos"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "p22_universidadv2.Pages.Departamento.EliminarDepartamentos"
+        }
+      },
+      {
+        "HashCode": -1964304018,
+        "Kind": "Components.Component",
+        "Name": "p22_universidadv2.Pages.Departamento.EliminarDepartamentos",
+        "AssemblyName": "p22-universidadv2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "p22_universidadv2.Pages.Departamento.EliminarDepartamentos"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "p22_universidadv2.Pages.Departamento.EliminarDepartamentos",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 668847661,
+        "Kind": "Components.Component",
+        "Name": "p22_universidadv2.Pages.Departamento.EditarDepartamentos",
+        "AssemblyName": "p22-universidadv2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "EditarDepartamentos"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "p22_universidadv2.Pages.Departamento.EditarDepartamentos"
+        }
+      },
+      {
+        "HashCode": -80904990,
+        "Kind": "Components.Component",
+        "Name": "p22_universidadv2.Pages.Departamento.EditarDepartamentos",
+        "AssemblyName": "p22-universidadv2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "p22_universidadv2.Pages.Departamento.EditarDepartamentos"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "p22_universidadv2.Pages.Departamento.EditarDepartamentos",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1966269468,
+        "Kind": "Components.Component",
+        "Name": "p22_universidadv2.Pages.Departamento.AgregarDepartamentos",
+        "AssemblyName": "p22-universidadv2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "AgregarDepartamentos"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "p22_universidadv2.Pages.Departamento.AgregarDepartamentos"
+        }
+      },
+      {
+        "HashCode": -896040523,
+        "Kind": "Components.Component",
+        "Name": "p22_universidadv2.Pages.Departamento.AgregarDepartamentos",
+        "AssemblyName": "p22-universidadv2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "p22_universidadv2.Pages.Departamento.AgregarDepartamentos"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "p22_universidadv2.Pages.Departamento.AgregarDepartamentos",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -16363,6 +16641,16 @@
       "FileKind": "component"
     },
     {
+      "FilePath": "d:\\Universidad\\Semestre9\\DAI\\desappint21\\p22-universidadv2\\Pages\\Departamento\\AgregarDepartamentos.razor",
+      "TargetPath": "Pages\\Departamento\\AgregarDepartamentos.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Universidad\\Semestre9\\DAI\\desappint21\\p22-universidadv2\\Pages\\Departamento\\EliminarDepartamentos.razor",
+      "TargetPath": "Pages\\Departamento\\EliminarDepartamentos.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "d:\\Universidad\\Semestre9\\DAI\\desappint21\\p22-universidadv2\\Pages\\Curso\\Cursos.razor",
       "TargetPath": "Pages\\Curso\\Cursos.razor",
       "FileKind": "component"
@@ -16388,9 +16676,19 @@
       "FileKind": "component"
     },
     {
+      "FilePath": "d:\\Universidad\\Semestre9\\DAI\\desappint21\\p22-universidadv2\\Pages\\Departamento\\EditarDepartamentos.razor",
+      "TargetPath": "Pages\\Departamento\\EditarDepartamentos.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "d:\\Universidad\\Semestre9\\DAI\\desappint21\\p22-universidadv2\\Pages\\_Host.cshtml",
       "TargetPath": "Pages\\_Host.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Universidad\\Semestre9\\DAI\\desappint21\\p22-universidadv2\\Pages\\Curso\\EliminarCursos.razor",
+      "TargetPath": "Pages\\Curso\\EliminarCursos.razor",
+      "FileKind": "component"
     },
     {
       "FilePath": "d:\\Universidad\\Semestre9\\DAI\\desappint21\\p22-universidadv2\\Pages\\Estudiante\\EditarEstudiantes.razor",
@@ -16408,8 +16706,18 @@
       "FileKind": "component"
     },
     {
+      "FilePath": "d:\\Universidad\\Semestre9\\DAI\\desappint21\\p22-universidadv2\\Pages\\Curso\\EditarCursos.razor",
+      "TargetPath": "Pages\\Curso\\EditarCursos.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "d:\\Universidad\\Semestre9\\DAI\\desappint21\\p22-universidadv2\\Pages\\Departamento\\Departamentos.razor",
       "TargetPath": "Pages\\Departamento\\Departamentos.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Universidad\\Semestre9\\DAI\\desappint21\\p22-universidadv2\\Pages\\Curso\\AgregarCursos.razor",
+      "TargetPath": "Pages\\Curso\\AgregarCursos.razor",
       "FileKind": "component"
     },
     {

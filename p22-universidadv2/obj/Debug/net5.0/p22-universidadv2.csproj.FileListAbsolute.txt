@@ -102,3 +102,15 @@ D:\Universidad\Semestre9\DAI\desappint21\p22-universidadv2\obj\Debug\net5.0\Razo
 D:\Universidad\Semestre9\DAI\desappint21\p22-universidadv2\obj\Debug\net5.0\Razor\Pages\Instructor\AgregarInstructores.razor.g.cs
 D:\Universidad\Semestre9\DAI\desappint21\p22-universidadv2\obj\Debug\net5.0\Razor\Pages\Instructor\EditarInstructores.razor.g.cs
 D:\Universidad\Semestre9\DAI\desappint21\p22-universidadv2\obj\Debug\net5.0\Razor\Pages\Instructor\EliminarInstructores.razor.g.cs
+D:\Universidad\Semestre9\DAI\desappint21\p22-universidadv2\obj\Debug\net5.0\RazorDeclaration\Pages\Curso\AgregarCursos.razor.g.cs
+D:\Universidad\Semestre9\DAI\desappint21\p22-universidadv2\obj\Debug\net5.0\Razor\Pages\Curso\AgregarCursos.razor.g.cs
+D:\Universidad\Semestre9\DAI\desappint21\p22-universidadv2\obj\Debug\net5.0\RazorDeclaration\Pages\Curso\EditarCursos.razor.g.cs
+D:\Universidad\Semestre9\DAI\desappint21\p22-universidadv2\obj\Debug\net5.0\Razor\Pages\Curso\EditarCursos.razor.g.cs
+D:\Universidad\Semestre9\DAI\desappint21\p22-universidadv2\obj\Debug\net5.0\RazorDeclaration\Pages\Curso\EliminarCursos.razor.g.cs
+D:\Universidad\Semestre9\DAI\desappint21\p22-universidadv2\obj\Debug\net5.0\Razor\Pages\Curso\EliminarCursos.razor.g.cs
+D:\Universidad\Semestre9\DAI\desappint21\p22-universidadv2\obj\Debug\net5.0\RazorDeclaration\Pages\Departamento\AgregarDepartamentos.razor.g.cs
+D:\Universidad\Semestre9\DAI\desappint21\p22-universidadv2\obj\Debug\net5.0\Razor\Pages\Departamento\AgregarDepartamentos.razor.g.cs
+D:\Universidad\Semestre9\DAI\desappint21\p22-universidadv2\obj\Debug\net5.0\RazorDeclaration\Pages\Departamento\EditarDepartamentos.razor.g.cs
+D:\Universidad\Semestre9\DAI\desappint21\p22-universidadv2\obj\Debug\net5.0\Razor\Pages\Departamento\EditarDepartamentos.razor.g.cs
+D:\Universidad\Semestre9\DAI\desappint21\p22-universidadv2\obj\Debug\net5.0\RazorDeclaration\Pages\Departamento\EliminarDepartamentos.razor.g.cs
+D:\Universidad\Semestre9\DAI\desappint21\p22-universidadv2\obj\Debug\net5.0\Razor\Pages\Departamento\EliminarDepartamentos.razor.g.cs
