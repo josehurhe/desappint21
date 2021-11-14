@@ -43,5 +43,5 @@ José Humberto Rodríguez Hernández
 ## Participación 10 - Modelado de la base de datos
 21. Universidad (modelado de base de datos) v3
 
-## Participación 10 - Modelado de la base de datos
+## Participación 11 - Modelado de la base de datos
 22. Universidad (modelado de base de datos) v4
