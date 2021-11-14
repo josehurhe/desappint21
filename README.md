@@ -32,7 +32,6 @@ José Humberto Rodríguez Hernández
 18. Repaso objetos v2
 
 ## Participación 07 - Programa Blazor CRUD hecho en clase
-
 20. CRUD Blazor
 
 ## Participación 08 - Modelado de la base de datos
@@ -40,3 +39,9 @@ José Humberto Rodríguez Hernández
 
 ## Participación 09 - Modelado de la base de datos
 22. Universidad (modelado de base de datos) v2
+
+## Participación 10 - Modelado de la base de datos
+21. Universidad (modelado de base de datos) v3
+
+## Participación 10 - Modelado de la base de datos
+22. Universidad (modelado de base de datos) v4
