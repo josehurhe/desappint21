@@ -1,0 +1,67 @@
+@page "/EditarCursos/{Id}"
+@inject NavigationManager NavigationManager
+@using p23_universidadv3.Modelo
+@using p23_universidadv3.Servicio
+@inject ServicioCursos serv;
+@inject ServicioDepartamentos sins;
+
+<h3>Editar Curso</h3>
+
+<div class="row">
+    <div class="col-md-8">
+        <EditForm Model="@obj" OnValidSubmit="@ActualizarCurso">
+            <DataAnnotationsValidator/>
+            <ValidationSummary/>
+            <div class="form-group">
+                <label for="Apaterno" class="control-label">Curso ID</label>
+                <InputNumber id="Apaterno" class="form-control" @bind-Value="obj.CursoId"/>
+            </div>
+            <div class="form-group">
+                <label for="Amaterno" class="control-label">Titulo</label>
+                <InputText id="Amaterno" class="form-control" @bind-Value="obj.Titulo"/>
+            </div>
+            <div class="form-group">
+                <label for="Nombre" class="control-label">Creditos</label>
+                <InputNumber id="Nombre" class="form-control" @bind-Value="obj.Creditos"/>
+            </div>
+            <div class="form-group">
+                <label for="DepartamentoId" class="control-label">Departamento</label>
+                <InputSelect id="DepartamentoId" class="form-control" @bind-Value="obj.DepartamentoId">
+                @foreach(var i in @objins){
+                    <option value="@i.DepartamentoId">@i.Nombre</option>
+                }
+                </InputSelect>
+            </div>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="form-group">
+                        <button type="submit" class="btn btn-primary">Guardar</button>
+                        <button type="button" class="btn btn-primary" @onclick="@Cancelar">Cancelar</button>
+                    </div>
+                </div>
+            </div>
+        </EditForm>
+    </div>
+</div>
+
+@code {
+    [Parameter]
+    public string Id { get; set; }
+    Curso obj = new Curso();
+    List<Departamento> objins;
+    protected void ActualizarCurso()
+    {
+        serv.Actualizar(obj);
+        NavigationManager.NavigateTo("Cursos");
+    }
+    void Cancelar()
+    {
+        NavigationManager.NavigateTo("Cursos");
+    }
+
+    protected override void OnInitialized()
+    {
+        objins = sins.ObtienerTodo();
+        obj = serv.Obtener(Convert.ToInt32(Id));
+    }
+}
