@@ -1,0 +1,52 @@
+@page "/AsignacionCursos"
+@using p25_universidadv5.Modelo;
+@using p25_universidadv5.Servicio;
+@inject ServicioAsignacionCursos serv
+
+<NavLink class="btn btn-primary" href="AgregarAsignacionCursos">
+    <i class="oi oi-plus"></i>&nbsp;Agregar Nuevo
+</NavLink>
+
+<h1>Informacion de Cursos Asignados</h1>
+
+@if (obj is null)
+{
+    <p><em>Cargando...!</em></p>
+}
+else
+{
+    <table class="table">
+            <thead>
+                <tr>
+                    <th>Instructor</th>
+                    <th>Curso</th>
+                    <th></th>
+                 </tr>
+            </thead>
+        <tbody>
+            @foreach(var i in obj)
+                {
+            <tr>
+                <td>@i.Instructor.NombreCompleto</td>
+                <td>@i.Curso.Titulo</td>
+                <td>
+                    <a class="btn btn-primary" href="EditarAsignacionCursos/@i.CursoId/@i.InstructorId">
+                        <i class="oi oi-pencil"></i>&nbsp;Editar
+                    </a>
+                    <a class="btn btn-danger" href="EliminarAsignacionCursos/@i.CursoId/@i.InstructorId">
+                        <i class="oi oi-trash"></i>&nbsp;Eliminar
+                    </a>
+                </td>
+            </tr>
+                }
+        </tbody>
+    </table>
+}
+
+@code{
+    List<AsignacionCurso> obj;
+    protected override void OnInitialized()
+    {
+        obj = serv.ObtenerTodo();
+    }
+}

@@ -1,0 +1,52 @@
+@page "/OficinaAsignadas"
+@using p25_universidadv5.Modelo;
+@using p25_universidadv5.Servicio;
+@inject ServicioOficinaAsignadas serv
+
+<NavLink class="btn btn-primary" href="AgregarOficinaAsignadas">
+    <i class="oi oi-plus"></i>&nbsp;Agregar Nuevo
+</NavLink>
+
+<h1>Informacion de Oficinas Asignadas</h1>
+
+@if (obj is null)
+{
+    <p><em>Cargando...!</em></p>
+}
+else
+{
+    <table class="table">
+            <thead>
+                <tr>
+                    <th>Instructor</th>
+                    <th>Ubicacion</th>
+                    <th></th>
+                 </tr>
+            </thead>
+        <tbody>
+            @foreach(var i in obj)
+                {
+            <tr>
+                <td>@i.Instructor.NombreCompleto</td>
+                <td>@i.Ubicacion</td>
+                <td>
+                    <a class="btn btn-primary" href="EditarOficinaAsignadas/@i.InstructorId">
+                        <i class="oi oi-pencil"></i>&nbsp;Editar
+                    </a>
+                    <a class="btn btn-danger" href="EliminarOficinaAsignadas/@i.InstructorId">
+                        <i class="oi oi-trash"></i>&nbsp;Eliminar
+                    </a>
+                </td>
+            </tr>
+                }
+        </tbody>
+    </table>
+}
+
+@code{
+    List<OficinaAsignada> obj;
+    protected override void OnInitialized()
+    {
+        obj = serv.ObtenerTodo();
+    }
+}

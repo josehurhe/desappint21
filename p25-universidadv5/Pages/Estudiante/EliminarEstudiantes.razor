@@ -1,0 +1,66 @@
+@page "/EliminarEstudiantes/{Id}"
+@inject NavigationManager NavigationManager
+@using p25_universidadv5.Modelo
+@using p25_universidadv5.Servicio
+@inject ServicioEstudidantes serv;
+
+<h3>Eliminar Estudiante</h3>
+<hr>
+<h3>¿Estás seguro de que desear eliminar?</h3>
+
+<div class="row">
+    <div class="col-md-8">
+        <EditForm Model="@obj">
+            <fieldset disabled="true">
+                <div class="form-group">
+                    <label for="Apaterno" class="control-label">Apellido Paterno</label>
+                    <InputText id="Apaterno" class="form-control" @bind-Value="obj.Apaterno"/>
+                </div>
+                <div class="form-group">
+                    <label for="Amaterno" class="control-label">Apellido Materno</label>
+                    <InputText id="Amaterno" class="form-control" @bind-Value="obj.Amaterno"/>
+                </div>
+                <div class="form-group">
+                    <label for="Nombre" class="control-label">Nombre</label>
+                    <InputText id="Nombre" aria-readonly="true" class="form-control" @bind-Value="obj.Nombre"/>
+                </div>
+                <div class="form-group">
+                    <label for="Email" class="control-label">Email</label>
+                    <InputText id="Email" class="form-control" @bind-Value="obj.Email"/>
+                </div>
+                <div class="form-group">
+                    <label for="FechaIngreso" class="control-label">Fecha de Ingreso</label>
+                    <InputDate id="FechaIngreso" class="form-control" @bind-Value="obj.FechaIngreso"/>
+                </div>
+            </fieldset>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="form-group">
+                        <button type="button" class="btn btn-danger" @onclick="@EliminarEstudiante">Eliminar</button>
+                        <button type="button" class="btn btn-primary" @onclick="@Cancelar">Cancelar</button>
+                    </div>
+                </div>
+            </div>
+        </EditForm>
+    </div>
+</div>
+
+@code {
+    [Parameter]
+    public string Id { get; set; }
+    Estudiante obj = new Estudiante();
+    protected override void OnInitialized()
+    {
+        obj = serv.Obtener(Convert.ToInt32(Id));
+    }
+
+    protected void EliminarEstudiante()
+    {
+        serv.Eliminar(obj);
+        NavigationManager.NavigateTo("Estudiantes");
+    }
+    void Cancelar()
+    {
+        NavigationManager.NavigateTo("Estudiantes");
+    }
+}

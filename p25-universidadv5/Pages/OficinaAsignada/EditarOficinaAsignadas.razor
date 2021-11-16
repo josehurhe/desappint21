@@ -1,0 +1,61 @@
+@page "/EditarOficinaAsignadas/{Id}"
+@inject NavigationManager NavigationManager
+@using p25_universidadv5.Modelo
+@using p25_universidadv5.Servicio
+@inject ServicioOficinaAsignadas serv;
+@inject ServicioInstructores sins;
+
+<h3>Editar Oficina Asignada</h3>
+
+<div class="row">
+    <div class="col-md-8">
+        <EditForm Model="@obj" OnValidSubmit="@ActualizarOficinaAsignada">
+            <DataAnnotationsValidator/>
+            <ValidationSummary/>
+            <fieldset disabled="true">
+                <div class="form-group">
+                    <label for="InstructorId" class="control-label">Instructor</label>
+                    <InputSelect id="InstructorId" class="form-control" @bind-Value="obj.InstructorId">
+                    <option value="null">-Elige un instructor-</option>
+                    @foreach(var i in @objins){
+                        <option value="@i.Id">@i.NombreCompleto</option>
+                    }
+                    </InputSelect>
+            </div>
+            </fieldset>
+            <div class="form-group">
+                <label for="Apaterno" class="control-label">Ubicacion</label>
+                <InputText id="Apaterno" class="form-control" @bind-Value="obj.Ubicacion"/>
+            </div>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="form-group">
+                        <button type="submit" class="btn btn-primary">Guardar</button>
+                        <button type="button" class="btn btn-primary" @onclick="@Cancelar">Cancelar</button>
+                    </div>
+                </div>
+            </div>
+        </EditForm>
+    </div>
+</div>
+
+@code {
+    [Parameter]
+    public string Id { get; set; }
+    OficinaAsignada obj = new OficinaAsignada();
+    List<Instructor> objins;
+    protected void ActualizarOficinaAsignada()
+    {
+        serv.Actualizar(obj);
+        NavigationManager.NavigateTo("OficinaAsignadas");
+    }
+    void Cancelar()
+    {
+        NavigationManager.NavigateTo("OficinaAsignadas");
+    }
+    protected override void OnInitialized()
+    {
+        objins = sins.ObtenerTodo("");
+        obj = serv.Obtener(Convert.ToInt32(Id));
+    }
+}
